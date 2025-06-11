@@ -1,7 +1,5 @@
-﻿using System.Text;
-using System.Text.Json;
+﻿using Dapr.Client;
 using System.Text.Json.Serialization;
-using Dapr.Client;
 
 internal class Program
 {
