@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "checkout", "checkout\checkout.csproj", "{636C3192-12CE-4884-AC45-B7C8A276075A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "order-processor", "order-processor\order-processor.csproj", "{E5E00462-9CA6-61C7-10C8-3850DDC4C90D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{636C3192-12CE-4884-AC45-B7C8A276075A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{636C3192-12CE-4884-AC45-B7C8A276075A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{636C3192-12CE-4884-AC45-B7C8A276075A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E00462-9CA6-61C7-10C8-3850DDC4C90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E00462-9CA6-61C7-10C8-3850DDC4C90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E00462-9CA6-61C7-10C8-3850DDC4C90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E00462-9CA6-61C7-10C8-3850DDC4C90D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
